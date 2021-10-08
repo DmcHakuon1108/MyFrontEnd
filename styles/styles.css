@@ -1,4 +1,6 @@
 * {
   border-radius: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 /*# sourceMappingURL=styles.css.map */
